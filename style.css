@@ -1,0 +1,21 @@
+
+/*Je suis un commentaire css*/
+
+body {
+    
+    color: grey;
+}
+
+h1{
+    color:green;
+}
+
+.premierp {
+    color:yellow;
+}
+#deuxiemep {
+    color:red;
+}
+.motjaja {
+    color: purple;
+}
